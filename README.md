@@ -3,9 +3,8 @@
 - Porto Alegre - RS📍
 
 ## 
-- Desde jovem tive curiosidade sobre o mundo de TI, mas a virada de chave, que me fez entrar de cabeça nos estudos voltados para o desenvolvimento de software foram exaramente a 1 ano, quando eu vi de perto sobre a vasta imensidão que pode ser explorada dentro deste assunto. 
+- Desde jovem tive curiosidade sobre o mundo de TI, mas a virada de chave, que me fez entrar de cabeça nos estudos voltados para o desenvolvimento de software foram exatamente a 1 ano, quando eu vi de perto sobre a vasta imensidão que pode ser explorada dentro deste assunto. 
 
-- Sou pai de uma cadelinha caramela linda chamada Pepa. 🐕💓
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/nicolas-paines-73920728b/)
